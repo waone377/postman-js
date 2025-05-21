@@ -30,5 +30,5 @@ jalankan perintah di bawah ini untuk menggunakan alat
 npm run start
 ```
 ## details
-semua preset permintaan disimpan di **koleksi.json** > _src/setup/koleksi.json_
+semua preset permintaan disimpan di **koleksi.json** > _src/setup/koleksi.json_  
 ada folder **public** itu digunakan untuk menyimpan file yang akan dikirim lewat body..
